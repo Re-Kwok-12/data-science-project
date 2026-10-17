@@ -67,10 +67,13 @@ approximately 23.4%, while Islands had the lowest, approximately 14.7%.
 
 ![District population size versus the share aged 65 and over](figures/figure02_population_vs_older_share.png)
 
-The population-weighted share aged 65 and over across the 18 districts
-was 19.58%. The district-level Pearson correlation between total
-population and older-population share was 0.130, indicating a weak
-positive linear association in this descriptive comparison.
+The population-weighted share aged 65 and over across the 18 land
+districts was 19.58%. Across these districts in 2021, this descriptive
+comparison showed no clear linear relationship between population
+size and the proportion aged 65 and over (Pearson r = 0.130).
+Population size alone provided little indication of a district's
+older-population share. This does not establish that the variables
+are unrelated.
 
 ## Key Findings
 
